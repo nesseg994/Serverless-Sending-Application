@@ -25,7 +25,7 @@ The pieces:
 ## How I Built It
 
 ### 1. Made the Website
-- Simple HTML/CSS frontend in S3
+- Simple HTML frontend in S3
 - Form that takes email and phone number
 - Sends data to my API when submitted
 
