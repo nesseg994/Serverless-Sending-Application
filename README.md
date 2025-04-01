@@ -1,4 +1,5 @@
 # 📡 Serverless Sending App on AWS
+**Based on cloudisfree.com**  
 
 ## What This Does
 Built a way to send emails and texts straight from a website without managing any servers. Everything runs on AWS services.
