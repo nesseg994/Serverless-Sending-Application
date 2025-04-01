@@ -56,7 +56,10 @@ For SES:
 - Sent test emails and texts to myself
 
 **Screenshots:**
+### Email Received
 ![Email working](./screenshots/email-proof.png)
+
+### SMS Received
 ![Text working](./screenshots/sms-proof.png)
 
 ## Final Thoughts
